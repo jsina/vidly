@@ -4,7 +4,7 @@ node express with typescript
 
 ### Installing
 
-yarn install
+```yarn install```
 
 ## Development
 
